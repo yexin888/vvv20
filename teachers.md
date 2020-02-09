@@ -44,9 +44,44 @@
 |:---:|
 | **Nicolò Genesio** [@Nicogene](https://github.com/Nicogene)|
 
+|[<img src="https://github.com/randaz81.png" width="180">](https://github.com/randaz81)|
+|:---:|
+| **Marco Randazzo** [@randaz81](https://github.com/randaz81)|
+
 |[<img src="https://github.com/Arya07.png" width="180">](https://github.com/Arya07)|
 |:---:|
 | **Elisa Maiettini** [@Arya07](https://github.com/Arya07)|
 
-### [Main Page](./README.md)
+|[<img src="https://github.com/eleramp.png" width="180">](https://github.com/eleramp)|
+|:---:|
+| **Elena Rampone** [@eleramp](https://github.com/eleramp)|
 
+|[<img src="https://github.com/aikolina.png" width="180">](https://github.com/aikolina)|
+|:---:|
+| **Aiko Dinale** [@aikolina](https://github.com/aikolina)|
+
+|[<img src="https://github.com/diegoferigo.png" width="180">](https://github.com/diegoferigo)|
+|:---:|
+| **Diego Ferigo** [@diegoferigo](https://github.com/diegoferigo)|
+
+|[<img src="https://github.com/fbottarel.png" width="180">](https://github.com/fbottarel)|
+|:---:|
+| **Fabrizio Bottarel** [@fbottarel](https://github.com/fbottarel)|
+
+|[<img src="https://github.com/Iaxama.png" width="180">](https://github.com/Iaxama)|
+|:---:|
+| **Massimiliano Iacono** [@Iaxama](https://github.com/Iaxama)|
+
+|[<img src="https://github.com/marco-monforte.png" width="180">](https://github.com/marco-monforte)|
+|:---:|
+| **Marco Monforte** [@marco-monforte](https://github.com/marco-monforte)|
+
+|[<img src="https://github.com/raffaello-camoriano.png" width="180">](https://github.com/raffaello-camoriano)|
+|:---:|
+| **Raffaello Camoriano** [@raffaello-camoriano](https://github.com/raffaello-camoriano)|
+
+|[<img src="https://github.com/GiulioRomualdi.png" width="180">](https://github.com/GiulioRomualdi)|
+|:---:|
+| **Giulio Romualdi** [@GiulioRomualdi](https://github.com/GiulioRomualdi)|
+
+### [Main Page](./README.md)
