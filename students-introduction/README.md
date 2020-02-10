@@ -1,3 +1,6 @@
 # Upload here the one slide presentation.
 
-:warning: The slide shall be given in **PDF with size smaller than 5 MB**.
+Please, comply with the following rules:
+- Upload only a **PDF**.
+- Give the file the name **username.pdf**.
+- Keep the file size smaller than **5 MB**.
